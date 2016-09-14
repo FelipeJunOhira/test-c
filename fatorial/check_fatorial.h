@@ -1,0 +1,1 @@
+Suite *fatorial_suite();
